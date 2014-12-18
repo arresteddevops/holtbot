@@ -10,7 +10,7 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-youtube", 
-  "9gag.coffee", 
+  "hubot-9gag", 
   "ackbar.coffee",
   "adult.coffee",
   "dilbert.coffee",
